@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\bin\Debug\net6.0\Esercizio_Tre.exe
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\bin\Debug\net6.0\Esercizio_Tre.deps.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\bin\Debug\net6.0\Esercizio_Tre.runtimeconfig.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\bin\Debug\net6.0\Esercizio_Tre.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\bin\Debug\net6.0\Esercizio_Tre.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.AssemblyInfo.cs
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\refint\Esercizio_Tre.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\Esercizio_Tre.genruntimeconfig.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Tre\Esercizio_Tre\obj\Debug\net6.0\ref\Esercizio_Tre.dll
