@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\bin\Debug\net6.0\Esercizio_Due.exe
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\bin\Debug\net6.0\Esercizio_Due.deps.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\bin\Debug\net6.0\Esercizio_Due.runtimeconfig.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\bin\Debug\net6.0\Esercizio_Due.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\bin\Debug\net6.0\Esercizio_Due.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.AssemblyInfo.cs
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\refint\Esercizio_Due.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\Esercizio_Due.genruntimeconfig.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\Esercizio_Due\Esercizio_Due\obj\Debug\net6.0\ref\Esercizio_Due.dll
