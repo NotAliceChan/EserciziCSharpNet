@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\bin\Debug\net6.0\Esercizio_Quattro.exe
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\bin\Debug\net6.0\Esercizio_Quattro.deps.json
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\bin\Debug\net6.0\Esercizio_Quattro.runtimeconfig.json
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\bin\Debug\net6.0\Esercizio_Quattro.dll
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\bin\Debug\net6.0\Esercizio_Quattro.pdb
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.AssemblyInfo.cs
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.dll
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\refint\Esercizio_Quattro.dll
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.pdb
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\Esercizio_Quattro.genruntimeconfig.cache
+C:\Users\Alice\Desktop\Esercitazioni Net\Esercizio_Quattro\Esercizio_Quattro\obj\Debug\net6.0\ref\Esercizio_Quattro.dll

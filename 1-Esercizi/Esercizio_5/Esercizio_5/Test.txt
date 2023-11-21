@@ -1,0 +1,19 @@
+Test di Valutazione
+
+1. Qual è la capitale del Giappone?
+   a) Seul
+   b) Pechino
+   c) Tokyo
+   d) Bangkok
+
+2. Quante note ci sono in una scala musicale standard?
+   a) 7
+   b) 10
+   c) 12
+   d) 5
+
+3. Chi è l'autore di "Romeo e Giulietta"?
+   a) Charles Dickens
+   b) Jane Austen
+   c) William Shakespeare
+   d) F. Scott Fitzgerald
