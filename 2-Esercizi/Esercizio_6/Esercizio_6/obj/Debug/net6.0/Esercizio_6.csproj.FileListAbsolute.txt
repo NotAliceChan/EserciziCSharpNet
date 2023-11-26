@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.AssemblyInfo.cs
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\bin\Debug\net6.0\Esercizio_6.exe
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\bin\Debug\net6.0\Esercizio_6.deps.json
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\bin\Debug\net6.0\Esercizio_6.runtimeconfig.json
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\bin\Debug\net6.0\Esercizio_6.dll
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\bin\Debug\net6.0\Esercizio_6.pdb
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.dll
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\refint\Esercizio_6.dll
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.pdb
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\Esercizio_6.genruntimeconfig.cache
+C:\Users\Alice\Desktop\EserciziCSharpNet\2-Esercizi\Esercizio_6\Esercizio_6\obj\Debug\net6.0\ref\Esercizio_6.dll
