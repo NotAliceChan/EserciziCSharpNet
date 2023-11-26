@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.AssemblyInfo.cs
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\bin\Debug\net6.0\Esercizio_5.exe
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\bin\Debug\net6.0\Esercizio_5.deps.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\bin\Debug\net6.0\Esercizio_5.runtimeconfig.json
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\bin\Debug\net6.0\Esercizio_5.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\bin\Debug\net6.0\Esercizio_5.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\refint\Esercizio_5.dll
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.pdb
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\Esercizio_5.genruntimeconfig.cache
+C:\Users\Alice\Desktop\CompitiNet\EserciziCSharpNet\2 - Esercizi 1 - 10\Esercizio_5\Esercizio_5\obj\Debug\net6.0\ref\Esercizio_5.dll

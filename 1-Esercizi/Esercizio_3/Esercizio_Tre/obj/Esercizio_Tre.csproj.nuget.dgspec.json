@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizio_Tre\\Esercizio_Tre\\Esercizio_Tre.csproj": {}
+    "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_3\\Esercizio_Tre\\Esercizio_Tre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizio_Tre\\Esercizio_Tre\\Esercizio_Tre.csproj": {
+    "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_3\\Esercizio_Tre\\Esercizio_Tre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizio_Tre\\Esercizio_Tre\\Esercizio_Tre.csproj",
+        "projectUniqueName": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_3\\Esercizio_Tre\\Esercizio_Tre.csproj",
         "projectName": "Esercizio_Tre",
-        "projectPath": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizio_Tre\\Esercizio_Tre\\Esercizio_Tre.csproj",
+        "projectPath": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_3\\Esercizio_Tre\\Esercizio_Tre.csproj",
         "packagesPath": "C:\\Users\\Alice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizio_Tre\\Esercizio_Tre\\obj\\",
+        "outputPath": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_3\\Esercizio_Tre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alice\\AppData\\Roaming\\NuGet\\NuGet.Config",

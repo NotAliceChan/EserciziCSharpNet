@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizi_1_10\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj": {}
+    "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizi_1_10\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj": {
+    "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizi_1_10\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj",
+        "projectUniqueName": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj",
         "projectName": "Esercizio_6",
-        "projectPath": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizi_1_10\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj",
+        "projectPath": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_6\\Esercizio_6\\Esercizio_6.csproj",
         "packagesPath": "C:\\Users\\Alice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alice\\Desktop\\CompitiNet\\EserciziCSharpNet\\Esercizi_1_10\\Esercizio_6\\Esercizio_6\\obj\\",
+        "outputPath": "C:\\Users\\Alice\\Desktop\\EserciziCSharpNet\\1-Esercizi\\Esercizio_6\\Esercizio_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alice\\AppData\\Roaming\\NuGet\\NuGet.Config",
